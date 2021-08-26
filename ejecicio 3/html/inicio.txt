@@ -1,0 +1,53 @@
+
+Cristhian Josue Cruz - 202100410
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ejercicio 3</title>
+        <link rel="stylesheet"href="C:\Users\Cristhian Cruz\Desktop\diseño de interfaz\UMH-147-202100410\ejecicio 3\css\bootstrap.css">
+        <style>
+            body{
+                background-color: #212529;
+            }
+        </style>
+    </head>
+    <body>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="card text-white bg-dark">
+                <div class="card body">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/TzYprNhC4XI" 
+            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
+        </div>
+        </div>
+        </div>
+        <div class="col">
+            <div class="card text-white bg-dark">
+                <div class="card body">
+                    <h4 class="card-tittle">Titulo de video</h4>
+                    <h5 class="card-subtitle text-nuted">Subtitulos</h5>
+                    <p class="card-text">
+                        Este es un texto de prueba
+                    </p>
+                </div>
+            </div>
+    </div>
+    <div class="row">
+        <div class="col">
+
+</div>
+<div class="col">
+
+</div>
+<div class="col">
+
+</div>
+<div class="col">
+
+    </body>
+</html>
